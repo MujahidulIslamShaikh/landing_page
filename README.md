@@ -1,2 +1,2 @@
-# landing_page
+# React-Ecommerce
 Setting up Git
